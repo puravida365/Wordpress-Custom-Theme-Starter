@@ -1,0 +1,12 @@
+#logo {
+  position: fixed;
+  margin: 0 auto;
+}
+#navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#navigation ul li a {
+  display: inline;
+}
