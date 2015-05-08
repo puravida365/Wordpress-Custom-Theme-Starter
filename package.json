@@ -1,0 +1,19 @@
+{
+  "name": "uguide",
+  "version": "1.0.0",
+  "description": "Title Here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puravida365/Wordpress-Custom-Theme-Starter.git"
+  },
+  "author": "Josue Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puravida365/Wordpress-Custom-Theme-Starter/issues"
+  },
+  "homepage": "https://github.com/puravida365/Wordpress-Custom-Theme-Starter#readme"
+}
