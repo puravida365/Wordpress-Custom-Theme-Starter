@@ -15,11 +15,12 @@
               }
             }
         }
-        
+
       });
 
     // Plugin loading
-
+    grunt.loadNpmTasks('grunt-contrib-less');
+    
     // Task definition
 
   };
