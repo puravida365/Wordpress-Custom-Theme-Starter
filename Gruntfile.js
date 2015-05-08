@@ -37,12 +37,6 @@ module.exports = function(grunt) {
       }
     },
   },
-  phpunit: {
-      classes: {
-      },
-      options: {
-      }
-  },
   watch: {
       js_frontend: {
         files: [
@@ -75,7 +69,6 @@ grunt.loadNpmTasks('grunt-contrib-concat');
 grunt.loadNpmTasks('grunt-contrib-watch');
 grunt.loadNpmTasks('grunt-contrib-less');
 grunt.loadNpmTasks('grunt-contrib-uglify');
-grunt.loadNpmTasks('grunt-phpunit');
 
 // Task definition
 grunt.registerTask('default', ['watch']);
